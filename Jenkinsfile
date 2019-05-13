@@ -6,6 +6,7 @@ pipeline{
             steps{
                 nodejs('nodejs') {
                         sh '''env'''
+                        sh '''echo $sha1'''
                         sh '''npm install && npm test'''
                 }                          
             }
