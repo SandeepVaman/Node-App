@@ -5,5 +5,5 @@
 ```
 npm install
 npm test
-npm run start:dev
+npm run start
 ```
