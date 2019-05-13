@@ -5,5 +5,5 @@
 ```
 npm install
 npm test
-npm tetst
+npm start
 ```
