@@ -1,6 +1,6 @@
 ## nodeapp - testing
 
-#### run it
+#### run it using these commands
 
 ```
 npm install
